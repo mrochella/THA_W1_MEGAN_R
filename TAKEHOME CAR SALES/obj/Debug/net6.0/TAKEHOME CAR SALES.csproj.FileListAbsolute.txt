@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\bin\Debug\net6.0\TAKEHOME CAR SALES.exe
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\bin\Debug\net6.0\TAKEHOME CAR SALES.deps.json
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\bin\Debug\net6.0\TAKEHOME CAR SALES.runtimeconfig.json
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\bin\Debug\net6.0\TAKEHOME CAR SALES.dll
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\bin\Debug\net6.0\TAKEHOME CAR SALES.pdb
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.AssemblyInfo.cs
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.dll
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\refint\TAKEHOME CAR SALES.dll
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.pdb
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\TAKEHOME CAR SALES.genruntimeconfig.cache
+C:\Users\acer\source\repos\TAKEHOME CAR SALES\TAKEHOME CAR SALES\obj\Debug\net6.0\ref\TAKEHOME CAR SALES.dll
